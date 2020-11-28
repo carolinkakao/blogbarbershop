@@ -9,4 +9,10 @@
     border-bottom-right-radius:1.25rem;
     color:$eerie-black;
 }
+.page-link{
+text-decoration: none;
+color:$eerie-black;
 
+&:hover{
+    background-color: $niclel;}
+}

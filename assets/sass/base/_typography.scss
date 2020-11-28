@@ -1,11 +1,43 @@
+.contenido__titulo{
+    font-family: $playfair;
+    font-size: $large;
+    font-weight: $regular;
+    
+}
 
+.contenido__parrafo{
+    font-family: $roboto;
+    font-size: $medium;
+    font-weight: $regular;
+    
+}
+.boton{
+    font-family: $roboto;
+    font-size: $small;
+    font-weight: $regular;
+}
+.seccion__contacto-naomi{
+    font-family: $playfair;
+    font-style: italic;
+    font-size: $x-large;
+    font-weight: $regular;
+}
+.seccion__contacto-redsocial{
+    font-family: $roboto;
+    font-size: $large;
+    font-weight: $p-light;
+}
 
-
-
-
-
-
-
+.seccion__contacto-paginaweb{
+    font-family: $roboto;
+    font-size: $large;
+    font-weight: $p-light;
+}
+.seccion__contacto-parrafo{
+    font-family: $roboto;
+    font-size: $medium;
+    font-weight: $regular;
+}
 
 
 
@@ -13,5 +45,7 @@
 .header__titulo{
     font-family: $playfair;
     font-style: italic;
+    font-size: $xx-large;
+    font-weight: $p-black;
 }
 
