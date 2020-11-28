@@ -1,0 +1,17 @@
+
+.contenido{
+    text-align: center;
+
+&__parrafo{
+    display: inline-block;
+    width: 75%;
+    margin-top: -1rem;
+    margin-right: 10%;
+    line-height: 1.8; 
+    text-align:justify;
+    text-justify:inter-word;}
+
+    &__bloque{
+        text-align: center; }
+ }
+    

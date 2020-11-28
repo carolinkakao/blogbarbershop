@@ -1,0 +1,25 @@
+.seccion__contacto{
+    height: auto;
+}
+
+.seccion__contacto-redsocial{
+    color:$spanish-pink;
+    &:hover{
+        color:$eerie-black;
+    }
+    &:active{
+        color:$platinum;
+    }
+}
+
+
+
+.seccion__contacto-paginaweb{
+    color:$spanish-pink;
+    &:hover{
+        color:$eerie-black;
+    }
+    &:active{
+        color:$platinum;
+    }
+}

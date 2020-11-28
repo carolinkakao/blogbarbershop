@@ -1,0 +1,17 @@
+.header{
+    background-image: url('../img/post-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: auto;
+
+&__titulo{
+    width: 100%;
+    text-align: center;
+    color:#fff;
+   line-height:1000px ;}
+&__icon{
+    position: relative;
+    background-color: #fff;
+}
+}

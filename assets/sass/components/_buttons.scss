@@ -1,0 +1,33 @@
+
+  .boton__uno {
+    color: #fff;
+    background-color: $niclel;
+    border-radius: 35px;
+        
+
+  &:hover{
+    opacity: 0.6;
+    text-decoration: none;
+    background-color: $niclel;}
+
+&:focus{
+    background-color:$niclel;
+}
+  }
+
+
+  .boton__dos {
+    color: #fff;
+    background-color: $niclel;
+    border-radius: 35px;
+        
+
+  &:hover{
+    opacity: 0.6;
+    text-decoration: none;
+    background-color: $light-gray;}
+
+&:focus{
+    background-color:$niclel;
+}
+  }

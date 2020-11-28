@@ -1,0 +1,12 @@
+.article__link-anterior:first-child.page-link{
+    border-top-left-radius:1.25rem;
+    border-bottom-left-radius:1.25rem;
+    color:$light-gray;
+}
+
+.article__link-proximo:last-child.page-link{
+    border-top-right-radius:1.25rem;
+    border-bottom-right-radius:1.25rem;
+    color:$eerie-black;
+}
+
